@@ -1,16 +1,5 @@
 # Tic-Tac-Toe
 
-Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
-
-
-
-## Run on Terminal
-
-```sh
-google-chrome index.html
-```
-
-
 
 ## Introduction
 
@@ -27,9 +16,3 @@ google-chrome index.html
 
 
 
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
