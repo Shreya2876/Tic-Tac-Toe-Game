@@ -4,8 +4,8 @@
 ## Introduction
 
 <p align="center">
-    <img alt="Screenshot" src="![image](https://github.com/Shreya2876/Tic-Tac-Toe-Game/assets/122904598/73fe1cb9-c525-4cb3-b0d6-84597c1df0a6)
-" width="800">
+    <img alt="Screenshot" src="![image](https://github.com/Shreya2876/Tic-Tac-Toe-Game/assets/122904598/cb936400-8800-486e-9c0d-523a59ce1398)
+", width="800">
 </p>
 
 
